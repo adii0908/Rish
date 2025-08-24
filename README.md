@@ -159,7 +159,7 @@
           </div>
         </div>
 
-        <div class="bg-white dark:bg-gray-900 rounded-2xl p-6 shadow-sm" data-aos="fade-up" data-aos-delay="60">
+   <div class="bg-white dark:bg-gray-900 rounded-2xl p-6 shadow-sm" data-aos="fade-up" data-aos-delay="60">
           <h3 class="font-bold text-lg">Skills & Tools</h3>
           <div class="mt-4 grid grid-cols-2 gap-3 text-sm">
             <div class="card rounded-xl border border-gray-200 dark:border-gray-800 p-3">
@@ -211,7 +211,7 @@
         </a>
       </div>
 
-      <div class="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+  <div class="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <article class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6" data-aos="fade-up">
           <i class="fa-solid fa-clapperboard text-3xl text-primary"></i>
           <h3 class="mt-4 font-bold text-lg">Video Production</h3>
@@ -223,7 +223,7 @@
           </ul>
         </article>
 
-        <article class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6" data-aos="fade-up" data-aos-delay="60">
+  <article class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6" data-aos="fade-up" data-aos-delay="60">
           <i class="fa-solid fa-pen-nib text-3xl text-primary"></i>
           <h3 class="mt-4 font-bold text-lg">Content Writing</h3>
           <p class="mt-2 text-gray-600 dark:text-gray-300">Blogs, scripts, captions & website copy tailored to your audience.</p>
@@ -234,7 +234,7 @@
           </ul>
         </article>
 
-        <article class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6" data-aos="fade-up" data-aos-delay="120">
+   <article class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6" data-aos="fade-up" data-aos-delay="120">
           <i class="fa-solid fa-bullhorn text-3xl text-primary"></i>
           <h3 class="mt-4 font-bold text-lg">Social Media Kits</h3>
           <p class="mt-2 text-gray-600 dark:text-gray-300">Content calendars, thumbnails, post designs, and analytics setup.</p>
@@ -263,8 +263,8 @@
         </div>
       </div>
 
-      <!-- Grid -->
-      <div class="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6" id="portfolioGrid">
+<!-- Grid -->
+  <div class="mt-8 grid sm:grid-cols-2 lg:grid-cols-3 gap-6" id="portfolioGrid">
         <!-- 1 -->
         <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up">
           <div class="aspect-video bg-black">
@@ -280,7 +280,7 @@
         </figure>
 
         <!-- 2 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="40">
+  <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="40">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/VEcD2bbrmjA?rel=0&modestbranding=1"
@@ -294,7 +294,7 @@
         </figure>
 
         <!-- 3 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="80">
+  <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="80">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/MbHJYHht6uc?rel=0&modestbranding=1"
@@ -308,7 +308,7 @@
         </figure>
 
         <!-- 4 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="120">
+   <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="120">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/dTLLCWluZRI?rel=0&modestbranding=1"
@@ -322,7 +322,7 @@
         </figure>
 
         <!-- 5 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="160">
+  <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="160">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/44KaJO3uDcI?rel=0&modestbranding=1"
@@ -336,7 +336,7 @@
         </figure>
 
         <!-- 6 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="200">
+<figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="200">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/wFCa5q_0jLE?rel=0&modestbranding=1"
@@ -350,7 +350,7 @@
         </figure>
 
         <!-- 7 -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="240">
+<figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="video" data-aos="fade-up" data-aos-delay="240">
           <div class="aspect-video bg-black">
             <iframe class="w-full h-full" loading="lazy"
               src="https://www.youtube.com/embed/NdvI105rFfs?rel=0&modestbranding=1"
@@ -364,7 +364,7 @@
         </figure>
 
         <!-- Writing sample (kept) -->
-        <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="writing" data-aos="fade-up">
+  <figure class="card rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-800 group" data-type="writing" data-aos="fade-up">
           <img loading="lazy" class="w-full aspect-video object-cover" src="https://images.unsplash.com/photo-1519336555923-59661f41bb40?w=1200&q=80&auto=format&fit=crop" alt="Blog cover" />
           <figcaption class="p-4">
             <h3 class="font-semibold">Blog: How to Hook in 3 Seconds</h3>
@@ -374,7 +374,7 @@
         </figure>
       </div>
 
-      <div class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="80">
+<div class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="80">
         <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"
            class="px-6 py-3 rounded-xl text-white bg-gradient-to-r from-primary to-accent shadow-soft hover:shadow-softxl inline-flex items-center gap-2">
           <i class="fa-brands fa-youtube text-xl"></i> View All on YouTube
@@ -426,7 +426,7 @@
           </div>
         </div>
 
-        <div class="space-y-6" data-aos="fade-up" data-aos-delay="60">
+   <div class="space-y-6" data-aos="fade-up" data-aos-delay="60">
           <h3 class="font-bold text-xl">Experience</h3>
           <div class="card rounded-2xl border border-gray-200 dark:border-gray-800 p-6">
             <p class="font-semibold">Freelance Video & Content Projects</p>
@@ -532,7 +532,7 @@
           </div>
         </div>
 
-        <form id="contactForm" class="bg-white dark:bg-gray-900 rounded-2xl p-6 border border-gray-200 dark:border-gray-800" data-aos="fade-up" data-aos-delay="60">
+  <form id="contactForm" class="bg-white dark:bg-gray-900 rounded-2xl p-6 border border-gray-200 dark:border-gray-800" data-aos="fade-up" data-aos-delay="60">
           <div class="grid sm:grid-cols-2 gap-4">
             <div>
               <label class="text-sm font-medium" for="name">Name</label>
