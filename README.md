@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" class="scroll-smooth">
 <head>
   <meta charset="UTF-8" />
@@ -20,13 +20,13 @@
       theme: {
         extend: {
           colors: {
-            primary: { DEFAULT: '#6366f1' },   /* indigo-500 */
-            accent: { DEFAULT: '#a855f7' },    /* purple-500 */
-            ink: { DEFAULT: '#0b1020' }
+              primary: { DEFAULT: '#6366f1' },   /* indigo-500 */
+               accent: { DEFAULT: '#a855f7' },    /* purple-500 */
+                  ink: { DEFAULT: '#0b1020' }
           },
           boxShadow: {
-            soft: '0 10px 30px rgba(2,6,23,.10)',
-            softxl: '0 20px 60px rgba(2,6,23,.12)'
+               soft: '0 10px 30px rgba(2,6,23,.10)',
+               softxl: '0 20px 60px rgba(2,6,23,.12)'
           }
         }
       }
