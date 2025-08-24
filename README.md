@@ -375,7 +375,7 @@
       </div>
 
 <div class="mt-10 flex justify-center" data-aos="fade-up" data-aos-delay="80">
-        <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"
+        <a href="https://youtube.com/@thesilentune24?si=qIlUZw210XcRgKFq" target="_blank" rel="noreferrer"
            class="px-6 py-3 rounded-xl text-white bg-gradient-to-r from-primary to-accent shadow-soft hover:shadow-softxl inline-flex items-center gap-2">
           <i class="fa-brands fa-youtube text-xl"></i> View All on YouTube
         </a>
